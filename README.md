@@ -1,18 +1,18 @@
 # UIT_Worker: ImageCLEFmedical 2026 Concept Detection
 
 ## 1. Introduction
-This repository contains the official source code of the UIT_Worker submission (leaderboard username: quocthai91206) to the ImageCLEFmedical 2026 Concept Detection task. Our system formulates medical concept detection as a large-scale multi-label classification problem over 2,646 Unified Medical Language System (UMLS) Concept Unique Identifiers (CUIs).
+This repository contains the official source code of the UIT_Worker submission to the ImageCLEFmedical 2026 Concept Detection task. Our system formulates medical concept detection as a large-scale multi-label classification problem over 2,646 Unified Medical Language System (UMLS) Concept Unique Identifiers (CUIs).
 
 ## 2. Official Result
 | Item | Value |
 |------|-------|
 | **Task** | ImageCLEFmedical 2026 — Concept Detection |
 | **Team** | `UIT_Worker` |
-| **Official leaderboard username** | `quocthai91206` |
+| **Official leaderboard team name** | `UIT_Worker` |
 | **Final model** | DenseNet-121 + ImageNet + Asymmetric Loss + Full-Fit |
 | **Primary F1-score** | **0.5725** |
 | **Secondary F1-score** | **0.9533** |
-| **Official Ranking** | **3rd place** (final leaderboard) |
+| **Official Ranking** | **3rd place** (`final leaderboard`) |
 
 ## 3. Core Technical Methodology
 
