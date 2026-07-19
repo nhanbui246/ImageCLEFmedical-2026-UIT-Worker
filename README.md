@@ -6,7 +6,7 @@ This repository contains the official source code of the UIT_Worker submission t
 ## 2. Official Result
 | Item | Value |
 |------|-------|
-| **Task** | ImageCLEFmedical 2026 — Concept Detection |
+| **Task** | ImageCLEFmedical 2026 - Concept Detection |
 | **Team** | `UIT_Worker` |
 | **Official leaderboard team name** | `UIT_Worker` |
 | **Final model** | DenseNet-121 + ImageNet + Asymmetric Loss + Full-Fit |
