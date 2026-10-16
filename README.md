@@ -61,6 +61,16 @@ The `CLEF_2026_Source_Code_UIT_Worker.ipynb` notebook is designed to be executed
 5. **Inference & Submission (Cells 6-7):** Loads the best model checkpoint generated during training, runs batch predictions on the test set, applies a fixed decision threshold of `0.60`, decodes the binary predictions back to CUI strings, and generates the final `submission.csv` mapped to the official IDs.
 
 ## 7. Citation
+If you find this repository or our full-fit DenseNet-121 strategy helpful for your research, please consider citing our paper:
 
-If you find this repository or our full-fit DenseNet-121 strategy helpful for your research, please consider citing our working notes:
-> Citation information and BibTeX will be updated here once the ImageCLEF 2026 Working Notes are officially published in CEUR-WS.
+```bibtex
+@inproceedings{uit_worker_imageclef2026,
+  author    = {Thai Q. To and Dinh C. Pham and Nhan H. Bui and Thien B. Nguyen-Tat},
+  title     = {UIT\_Worker at ImageCLEFmedical 2026: DenseNet-121 Full-Fit Medical Concept Detection with Asymmetric Loss},
+  booktitle = {CLEF 2026 Working Notes},
+  series    = {CEUR Workshop Proceedings},
+  volume    = {4283},
+  publisher = {CEUR-WS.org},
+  year      = {2026},
+  url       = {[https://ceur-ws.org/Vol-4283/paper297.pdf](https://ceur-ws.org/Vol-4283/paper297.pdf)}
+}
