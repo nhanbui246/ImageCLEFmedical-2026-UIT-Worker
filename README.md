@@ -66,11 +66,13 @@ If you find this repository or our full-fit DenseNet-121 strategy helpful for yo
 ```bibtex
 @inproceedings{uit_worker_imageclef2026,
   author    = {Thai Q. To and Dinh C. Pham and Nhan H. Bui and Thien B. Nguyen-Tat},
-  title     = {UIT\_Worker at ImageCLEFmedical 2026: DenseNet-121 Full-Fit Medical Concept Detection with Asymmetric Loss},
-  booktitle = {CLEF 2026 Working Notes},
+  title     = {{UIT_Worker} at {ImageCLEFmedical} 2026: {DenseNet-121} Full-Fit Medical Concept Detection with Asymmetric Loss},
+  booktitle = {Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2026)},
   series    = {CEUR Workshop Proceedings},
   volume    = {4283},
+  pages     = {4042--4054},
   publisher = {CEUR-WS.org},
   year      = {2026},
-  url       = {[https://ceur-ws.org/Vol-4283/paper297.pdf](https://ceur-ws.org/Vol-4283/paper297.pdf)}
+  issn      = {1613-0073},
+  url       = {https://ceur-ws.org/Vol-4283/paper297.pdf}
 }
